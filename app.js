@@ -14,5 +14,5 @@ todoController(app);
 
 
 //listen to port
-app.listen(9000);
-console.log('you are listening to port 9000');
+app.listen(8000);
+console.log('you are listening to port 8000');
